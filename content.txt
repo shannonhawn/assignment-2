@@ -1,14 +1,12 @@
-<h1>Planets</h1>
+Planets
 
-<ul>
 Introduction
 Terrestrial planets
 Mars
 Venus
 Sources
-</ul>
 
-<h1>Introduction</h1>
+Introduction
 
 A planet is a celestial body, orbiting a star, that is massive enough to be gravitationally rounded and has “cleared the neighbourhood” around its orbit.
 
